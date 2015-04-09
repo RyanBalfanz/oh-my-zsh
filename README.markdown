@@ -65,6 +65,12 @@ To use a different theme, simple change the value to match the name of your desi
 
 `ZSH_THEME="agnoster"` (this is one of the fancy ones)
 
+Ryan's theme, which is an extension of Robby's:
+
+`ZSH_THEME="ryanbalfanz"` (this fork was created for this theme)
+
+[![ryanbalfanz.zsh-theme](https://cloud.githubusercontent.com/assets/133278/7075411/a7c1f0b6-deb6-11e4-81d1-4df8d30343cd.png)](https://cloud.githubusercontent.com/assets/133278/7075411/a7c1f0b6-deb6-11e4-81d1-4df8d30343cd.png)
+
 Open up a new terminal window and your prompt should look something like...
 
 ## Advanced Topics
